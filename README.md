@@ -1,7 +1,14 @@
 ## 🍉 Hi, Nice to see you.
 
 
-🧑‍🌾 I'm YongSheng, Front-end Developer. living in Beijing
+🧑‍🌾 I'm YongSheng, Front-end Developer, living in Beijing CN.
+  
+
+[![Static Badge](https://img.shields.io/badge/%E6%8E%98%E9%87%91-blue?style=flat-square&logo=juejin&logoColor=%23007FFF&color=%23666)](https://juejin.cn/user/1257497032143015/posts)
+[![Static Badge](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-blue?style=flat-square&logo=bloglovin&logoColor=blue&color=%23666
+)](https://www.cnblogs.com/pangys)
+[![Static Badge](https://img.shields.io/badge/instagram-blue?style=flat-square&logo=instagram&logoColor=%23E4405F&color=%23666)](https://www.instagram.com/yongshengpang/)
+[![Static Badge](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-blue?style=flat-square&logo=sinaweibo&logoColor=%23E6162D&color=%23666)](https://weibo.com/u/2952628225)
 
 ### Langguages:
 

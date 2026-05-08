@@ -1,7 +1,7 @@
 ## 🍉 Hi, Nice to see you.
 
 
-🧑‍🌾 I'm YongSheng, Front-end Developer, living in Beijing CN.
+🧑‍🌾 I'm YongSheng, Developer, living in Beijing CN.
   
 
 [![Static Badge](https://img.shields.io/badge/%E6%8E%98%E9%87%91-blue?style=flat-square&logo=juejin&logoColor=%23007FFF&color=%23666)](https://juejin.cn/user/1257497032143015/posts)
@@ -12,10 +12,11 @@
 
 ### Langguages:
 
-![Static Badge](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=%2323F7DF1&logoSize=16&labelColor=%23000)
+![Static Badge](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=%233178C6&logoSize=16&labelColor=%23000)
+![Static Badge](https://img.shields.io/badge/rust-000?style=for-the-badge&logo=rust&logoColor=%23DEA584&logoSize=16&labelColor=%23000)
 ![Static Badge](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=%233776AB&logoSize=16&labelColor=%23000)
-![Static Badge](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=tsnode&logoColor=%233178C6&logoSize=16&labelColor=%23000)
 ![Static Badge](https://img.shields.io/badge/css-000?style=for-the-badge&logo=csswizardry&logoColor=%23F43059&logoSize=16&labelColor=%23000)
+![Static Badge](https://img.shields.io/badge/webgl-000?style=for-the-badge&logo=webgl&logoColor=%23990000&logoSize=16&labelColor=%23000)
 
 
 
@@ -25,8 +26,8 @@
 ![Static Badge](https://img.shields.io/badge/-000?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&logoSize=16&label=vue&labelColor=%23000)
 ![Static Badge](https://img.shields.io/badge/-000?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=16&label=react&labelColor=%23000)
 ![Static Badge](https://img.shields.io/badge/-000?style=for-the-badge&logo=nuxtdotjs&logoColor=%2300DC82&logoSize=16&label=nuxt&labelColor=%23000)
-
-
+![Static Badge](https://img.shields.io/badge/-000?style=for-the-badge&logo=webassembly&logoColor=%236542FF&logoSize=16&label=webassembly&labelColor=%23000)
+![Static Badge](https://img.shields.io/badge/-000?style=for-the-badge&logo=tensorflow&logoColor=%23FF6F00&logoSize=16&label=tensorflow&labelColor=%23000)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangyongsheng&layout=compact&theme=tokyonight)
